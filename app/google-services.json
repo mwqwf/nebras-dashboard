@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "412379996427",
+    "firebase_url": "https://nebras-9118c-default-rtdb.firebaseio.com",
+    "project_id": "nebras-9118c",
+    "storage_bucket": "nebras-9118c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412379996427:android:d2fa1b7d0a5f3eb900c20e",
+        "android_client_info": {
+          "package_name": "com.example.nebras_mobile_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412379996427-07rlh7dganngm9d6938lohr139r8mkkn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nebras_mobile_app",
+            "certificate_hash": "9b287e3500dabef771e723f4d191b3d2f519bd19"
+          }
+        },
+        {
+          "client_id": "412379996427-7nfsm021kms4a2hi76uopo8j3thgr0j0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nebras_mobile_app",
+            "certificate_hash": "7647dce9a43b2d876e69bde7ad516beb653caef2"
+          }
+        },
+        {
+          "client_id": "412379996427-0i55p23iunk93tilvje5442d6e42s4p9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdeNRtuN3ircSeuaUewmtg92bsBnGueT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412379996427-0i55p23iunk93tilvje5442d6e42s4p9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "412379996427-fugbjjoa88hus86ufl4qnc07s01ucp7g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nebrasMobileApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412379996427:android:cf1fd174dbad0af900c20e",
+        "android_client_info": {
+          "package_name": "com.nebras.dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412379996427-t18qgspb6rlb5o779snb6fh7l8teefmc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nebras.dashboard",
+            "certificate_hash": "9b287e3500dabef771e723f4d191b3d2f519bd19"
+          }
+        },
+        {
+          "client_id": "412379996427-0i55p23iunk93tilvje5442d6e42s4p9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdeNRtuN3ircSeuaUewmtg92bsBnGueT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412379996427-0i55p23iunk93tilvje5442d6e42s4p9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "412379996427-fugbjjoa88hus86ufl4qnc07s01ucp7g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nebrasMobileApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412379996427:android:82ef5eb717d30d8900c20e",
+        "android_client_info": {
+          "package_name": "com.nebras.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412379996427-3b2kl5ntka4o4utejieeuesn3tauaajk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nebras.mobile",
+            "certificate_hash": "2e073803434b76b715adfbe049dfcdb36fe187af"
+          }
+        },
+        {
+          "client_id": "412379996427-ue9ttqhf13t37f9hdr953ah68aejnmtc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nebras.mobile",
+            "certificate_hash": "8dabcd03e431fdea689c961d6aae15df474960f8"
+          }
+        },
+        {
+          "client_id": "412379996427-0i55p23iunk93tilvje5442d6e42s4p9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdeNRtuN3ircSeuaUewmtg92bsBnGueT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412379996427-0i55p23iunk93tilvje5442d6e42s4p9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "412379996427-fugbjjoa88hus86ufl4qnc07s01ucp7g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nebrasMobileApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

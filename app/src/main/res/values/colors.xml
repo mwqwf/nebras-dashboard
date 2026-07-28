@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- نفس رموز `core/theme.dart` في نسخة Flutter — خلفية النافذة فقط. -->
+    <color name="dashboard_light_background">#F6F7FB</color>
+    <color name="dashboard_dark_background">#10131A</color>
+</resources>

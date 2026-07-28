@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">لوحة نبراس</string>
+    <string name="chat_channel_name">دردشة الإدارة</string>
+    <string name="content_channel_name">محتوى جديد</string>
+</resources>
